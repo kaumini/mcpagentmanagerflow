@@ -1,0 +1,3 @@
+[workspace]
+title = "mcpAgentManagerFlow"
+packages = ["mcp_am_integration"]
